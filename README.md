@@ -1,2 +1,1 @@
-# Created By Darknet
-redoxxovpn
+# Created By EMMETT
